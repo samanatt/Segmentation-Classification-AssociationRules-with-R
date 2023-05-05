@@ -1,0 +1,299 @@
+no,age,gender,Salary,No_childs,Home_Owner,CRM,segment
+1,47,M,49500,2,NO,No,Suburb mix
+2,31,M,35500,1,Yes,No,Suburb mix
+3,43,M,44200,0,Yes,No,Suburb mix
+4,37,F,81000,1,NO,No,Suburb mix
+5,41,F,79400,3,Yes,No,Suburb mix
+6,43,M,58100,4,Yes,No,Suburb mix
+7,38,M,19300,3,NO,No,Suburb mix
+8,28,M,47200,0,NO,No,Suburb mix
+9,44,F,48300,1,NO,No,Suburb mix
+10,35,F,52600,0,Yes,No,Suburb mix
+11,48,M,47900,0,Yes,No,Suburb mix
+12,38,F,65800,0,NO,No,Suburb mix
+13,33,F,69300,2,NO,No,Suburb mix
+14,43,M,57200,3,Yes,No,Suburb mix
+15,39,M,47100,1,Yes,No,Suburb mix
+16,42,M,57000,3,Yes,No,Suburb mix
+17,42,F,53100,0,Yes,No,Suburb mix
+18,44,F,41300,0,Yes,No,Suburb mix
+19,38,F,63500,1,Yes,No,Suburb mix
+20,32,F,52600,2,Yes,Yes,Suburb mix
+21,48,F,48200,1,Yes,No,Suburb mix
+22,37,F,46200,6,Yes,No,Suburb mix
+23,30,M,44200,2,NO,No,Suburb mix
+24,38,F,56100,2,Yes,No,Suburb mix
+25,33,F,62500,4,Yes,No,Suburb mix
+26,40,F,51200,1,Yes,No,Suburb mix
+27,27,M,59400,2,NO,No,Suburb mix
+28,45,M,57400,0,NO,No,Suburb mix
+29,35,F,56100,1,NO,No,Suburb mix
+30,40,F,76500,2,NO,No,Suburb mix
+31,54,M,65700,1,NO,No,Suburb mix
+32,43,F,45200,3,NO,No,Suburb mix
+33,37,M,49900,1,Yes,No,Suburb mix
+34,37,M,60000,4,NO,No,Suburb mix
+35,45,F,65200,0,NO,No,Suburb mix
+36,34,M,46800,1,NO,No,Suburb mix
+37,44,M,61300,3,Yes,No,Suburb mix
+38,43,F,49400,1,NO,No,Suburb mix
+39,33,F,30800,2,Yes,No,Suburb mix
+40,41,F,59800,2,Yes,No,Suburb mix
+41,45,M,52600,2,Yes,No,Suburb mix
+42,30,F,54300,3,NO,No,Suburb mix
+43,41,M,49700,2,Yes,No,Suburb mix
+44,43,M,72000,1,NO,No,Suburb mix
+45,46,M,51900,1,NO,No,Suburb mix
+46,34,M,55400,1,NO,No,Suburb mix
+47,39,F,67500,3,Yes,No,Suburb mix
+48,40,F,67900,1,NO,No,Suburb mix
+49,47,F,46700,3,NO,No,Suburb mix
+50,41,M,28300,2,Yes,No,Suburb mix
+51,37,F,73300,2,Yes,No,Suburb mix
+52,40,M,58000,2,Yes,No,Suburb mix
+53,34,F,55800,6,Yes,Yes,Suburb mix
+54,43,M,62200,3,NO,No,Suburb mix
+55,42,F,52800,4,Yes,No,Suburb mix
+56,45,M,51600,4,NO,No,Suburb mix
+57,37,M,54100,1,Yes,No,Suburb mix
+58,34,M,61000,2,NO,No,Suburb mix
+59,35,M,27700,1,NO,No,Suburb mix
+60,41,M,59100,3,NO,No,Suburb mix
+61,40,F,46700,1,NO,No,Suburb mix
+62,49,M,57900,1,NO,No,Suburb mix
+63,42,F,40800,3,NO,No,Suburb mix
+64,36,F,49300,1,NO,No,Suburb mix
+65,46,M,68600,1,NO,Yes,Suburb mix
+66,40,F,61400,2,NO,No,Suburb mix
+67,39,F,39600,1,NO,No,Suburb mix
+68,33,F,72700,3,Yes,No,Suburb mix
+69,32,F,56200,2,NO,No,Suburb mix
+70,43,M,59200,1,NO,No,Suburb mix
+71,36,F,53400,1,NO,No,Suburb mix
+72,40,F,70400,2,Yes,No,Suburb mix
+73,49,F,38400,1,Yes,No,Suburb mix
+74,42,M,51400,1,NO,No,Suburb mix
+75,33,M,53200,4,Yes,No,Suburb mix
+76,33,M,85300,4,NO,No,Suburb mix
+77,44,M,46100,1,NO,No,Suburb mix
+78,39,M,60000,3,NO,No,Suburb mix
+79,42,M,49700,0,Yes,No,Suburb mix
+80,40,M,49800,1,Yes,No,Suburb mix
+81,48,F,79500,1,Yes,No,Suburb mix
+82,38,F,52300,3,NO,No,Suburb mix
+83,43,F,66900,1,Yes,No,Suburb mix
+84,34,M,49300,2,Yes,Yes,Suburb mix
+85,36,M,66300,1,NO,No,Suburb mix
+86,36,M,39400,1,NO,No,Suburb mix
+87,45,F,47000,1,Yes,No,Suburb mix
+88,44,F,42300,5,NO,No,Suburb mix
+89,42,F,58900,3,NO,Yes,Suburb mix
+90,40,M,76200,2,Yes,No,Suburb mix
+91,45,M,68900,5,Yes,No,Suburb mix
+92,48,F,63700,2,Yes,No,Suburb mix
+93,40,M,57100,0,NO,No,Suburb mix
+94,41,M,60800,3,NO,No,Suburb mix
+95,45,M,53400,3,Yes,Yes,Suburb mix
+96,41,M,44900,5,Yes,No,Suburb mix
+97,37,F,58900,2,Yes,No,Suburb mix
+98,36,F,58000,1,NO,No,Suburb mix
+99,46,M,56000,3,Yes,No,Suburb mix
+100,43,M,29300,1,NO,No,Suburb mix
+101,25,M,18500,1,NO,Yes,Urban hip
+102,26,M,26500,1,NO,Yes,Urban hip
+103,23,M,12000,1,NO,No,Urban hip
+104,21,M,16600,3,NO,No,Urban hip
+105,23,M,17800,1,NO,No,Urban hip
+106,23,M,23900,1,NO,No,Urban hip
+107,23,M,17500,1,NO,Yes,Urban hip
+108,21,M,18400,1,Yes,Yes,Urban hip
+109,22,M,21100,0,NO,No,Urban hip
+110,23,M,25500,2,NO,No,Urban hip
+111,23,F,21700,3,NO,No,Urban hip
+112,24,M,23800,0,NO,No,Urban hip
+113,24,M,15500,1,NO,No,Urban hip
+114,21,M,22500,3,NO,No,Urban hip
+115,27,M,25200,0,NO,No,Urban hip
+116,23,M,17400,4,NO,No,Urban hip
+117,24,F,22800,0,NO,No,Urban hip
+118,24,F,18100,1,Yes,No,Urban hip
+119,25,M,32200,1,NO,No,Urban hip
+120,26,M,23800,2,Yes,No,Urban hip
+121,25,F,12500,1,NO,Yes,Urban hip
+122,23,F,22400,0,Yes,No,Urban hip
+123,27,M,24000,1,NO,No,Urban hip
+124,22,F,24500,1,NO,No,Urban hip
+125,25,M,22900,2,Yes,No,Urban hip
+126,24,M,22000,0,NO,No,Urban hip
+127,24,M,20300,0,NO,No,Urban hip
+128,22,M,27800,2,NO,Yes,Urban hip
+129,23,F,15900,0,NO,Yes,Urban hip
+130,22,F,20200,2,Yes,Yes,Urban hip
+131,24,M,18100,0,NO,No,Urban hip
+132,25,F,22100,2,NO,No,Urban hip
+133,26,F,17400,0,NO,No,Urban hip
+134,21,F,27200,1,NO,No,Urban hip
+135,28,M,22200,1,NO,No,Urban hip
+136,23,M,33900,3,NO,No,Urban hip
+137,25,M,23300,2,NO,Yes,Urban hip
+138,21,F,17100,2,NO,No,Urban hip
+139,28,F,31300,2,Yes,No,Urban hip
+140,25,M,17800,1,NO,No,Urban hip
+141,25,F,20100,2,NO,Yes,Urban hip
+142,25,F,23800,0,NO,No,Urban hip
+143,22,M,16300,0,NO,No,Urban hip
+144,22,M,24500,2,Yes,No,Urban hip
+145,25,F,25800,0,Yes,No,Urban hip
+146,19,F,18600,0,NO,No,Urban hip
+147,26,F,12400,0,NO,No,Urban hip
+148,26,M,28300,1,NO,No,Urban hip
+149,23,F,27200,0,NO,No,Urban hip
+150,25,F,23100,0,Yes,No,Urban hip
+151,56,F,91500,0,Yes,No,Travelers
+152,64,M,61100,0,Yes,No,Travelers
+153,57,F,68400,0,NO,No,Travelers
+154,68,F,25800,0,Yes,No,Travelers
+155,67,M,54100,0,Yes,No,Travelers
+156,66,F,66600,0,Yes,No,Travelers
+157,43,M,51800,0,NO,No,Travelers
+158,76,F,24000,0,Yes,No,Travelers
+159,52,F,50500,0,Yes,No,Travelers
+160,54,F,85800,0,Yes,No,Travelers
+161,56,M,75500,0,Yes,No,Travelers
+162,53,M,72300,0,Yes,No,Travelers
+163,51,M,36900,0,Yes,No,Travelers
+164,66,F,46800,0,Yes,No,Travelers
+165,62,M,94800,0,Yes,No,Travelers
+166,46,F,50300,0,Yes,No,Travelers
+167,57,F,58300,0,Yes,No,Travelers
+168,50,M,60700,0,Yes,No,Travelers
+169,65,F,78200,0,Yes,No,Travelers
+170,49,M,61200,0,NO,Yes,Travelers
+171,65,M,45500,0,NO,Yes,Travelers
+172,71,M,48700,0,NO,No,Travelers
+173,42,M,39400,0,Yes,No,Travelers
+174,57,M,47500,0,Yes,No,Travelers
+175,51,M,61500,0,Yes,No,Travelers
+176,62,F,48400,0,Yes,No,Travelers
+177,62,M,68900,0,Yes,No,Travelers
+178,57,F,37800,0,Yes,No,Travelers
+179,55,F,96500,0,Yes,No,Travelers
+180,56,F,55300,0,Yes,No,Travelers
+181,58,F,105500,0,Yes,No,Travelers
+182,68,M,104300,0,Yes,No,Travelers
+183,51,F,48900,0,Yes,Yes,Travelers
+184,49,F,59100,0,NO,No,Travelers
+185,59,F,60200,0,Yes,No,Travelers
+186,56,F,64700,0,Yes,No,Travelers
+187,58,M,86800,0,Yes,No,Travelers
+188,39,F,77400,0,Yes,No,Travelers
+189,68,F,51500,0,NO,No,Travelers
+190,61,M,72600,0,Yes,No,Travelers
+191,64,M,50700,0,NO,No,Travelers
+192,51,M,42500,0,Yes,Yes,Travelers
+193,44,M,51400,0,Yes,No,Travelers
+194,46,M,77300,0,Yes,No,Travelers
+195,50,F,62300,0,Yes,No,Travelers
+196,53,M,61000,0,Yes,No,Travelers
+197,58,M,79600,0,Yes,Yes,Travelers
+198,61,F,15300,0,Yes,No,Travelers
+199,63,F,46600,0,Yes,No,Travelers
+200,65,M,113500,0,NO,No,Travelers
+201,45,M,63600,0,Yes,No,Travelers
+202,59,F,78900,0,Yes,Yes,Travelers
+203,51,F,78000,0,NO,No,Travelers
+204,68,F,69100,0,NO,No,Travelers
+205,66,F,101200,0,Yes,No,Travelers
+206,61,M,60900,0,Yes,No,Travelers
+207,61,M,62900,0,NO,No,Travelers
+208,48,F,92400,0,Yes,No,Travelers
+209,54,M,45900,0,Yes,No,Travelers
+210,52,F,68500,0,NO,No,Travelers
+211,62,F,82300,0,Yes,No,Travelers
+212,52,M,49200,0,Yes,No,Travelers
+213,72,F,60300,0,Yes,Yes,Travelers
+214,60,M,37000,0,Yes,No,Travelers
+215,51,F,71500,0,NO,No,Travelers
+216,61,F,74800,0,NO,No,Travelers
+217,57,M,37600,0,NO,Yes,Travelers
+218,62,F,29900,0,Yes,No,Travelers
+219,78,F,24600,0,Yes,No,Travelers
+220,47,M,64800,0,NO,No,Travelers
+221,80,M,82100,0,Yes,Yes,Travelers
+222,57,M,48400,0,Yes,Yes,Travelers
+223,59,M,114300,0,Yes,No,Travelers
+224,61,M,96900,0,Yes,No,Travelers
+225,56,F,58400,0,NO,No,Travelers
+226,55,F,106400,0,Yes,No,Travelers
+227,61,F,72500,0,NO,No,Travelers
+228,66,M,55400,0,NO,No,Travelers
+229,32,F,50600,2,Yes,No,Moving up
+230,38,M,51000,5,Yes,No,Moving up
+231,46,F,40600,3,NO,No,Moving up
+232,31,M,52300,2,NO,No,Moving up
+233,34,M,57700,3,NO,No,Moving up
+234,36,M,57000,2,Yes,No,Moving up
+235,33,F,36400,0,NO,No,Moving up
+236,38,M,47000,3,Yes,No,Moving up
+237,30,M,65200,2,NO,No,Moving up
+238,43,F,58700,3,Yes,No,Moving up
+239,33,F,49500,1,Yes,No,Moving up
+240,34,F,57000,1,NO,Yes,Moving up
+241,37,F,53800,0,NO,No,Moving up
+242,39,F,69900,2,NO,No,Moving up
+243,39,F,57300,0,NO,No,Moving up
+244,39,F,49900,3,NO,No,Moving up
+245,36,F,53000,2,Yes,No,Moving up
+246,31,F,70500,4,NO,No,Moving up
+247,43,F,66900,0,NO,No,Moving up
+248,34,M,39700,2,NO,No,Moving up
+249,41,F,54900,2,NO,No,Moving up
+250,35,F,60000,0,Yes,No,Moving up
+251,38,M,68000,4,NO,No,Moving up
+252,34,F,73800,0,NO,No,Moving up
+253,33,F,53600,3,NO,No,Moving up
+254,39,M,52100,1,NO,Yes,Moving up
+255,43,F,69500,3,NO,Yes,Moving up
+256,31,F,50500,3,Yes,Yes,Moving up
+257,34,F,61200,1,NO,No,Moving up
+258,32,F,65700,3,NO,No,Moving up
+259,39,F,49300,2,Yes,Yes,Moving up
+260,29,F,29800,3,NO,No,Moving up
+261,36,M,51800,1,NO,No,Moving up
+262,34,M,45600,1,Yes,No,Moving up
+263,39,M,53700,7,Yes,No,Moving up
+264,32,F,43400,4,NO,No,Moving up
+265,36,M,62100,0,NO,No,Moving up
+266,34,F,49200,2,NO,No,Moving up
+267,43,M,39800,0,Yes,No,Moving up
+268,38,F,41100,2,NO,No,Moving up
+269,32,F,52800,1,Yes,Yes,Moving up
+270,42,F,58800,2,NO,No,Moving up
+271,39,F,44800,5,Yes,No,Moving up
+272,40,F,44100,4,Yes,No,Moving up
+273,37,F,36300,1,NO,No,Moving up
+274,39,F,45300,1,Yes,Yes,Moving up
+275,30,F,50700,0,NO,No,Moving up
+276,36,F,46500,1,NO,Yes,Moving up
+277,37,F,50600,3,Yes,No,Moving up
+278,37,F,59700,1,NO,No,Moving up
+279,32,F,55900,3,NO,No,Moving up
+280,34,F,66000,3,NO,No,Moving up
+281,37,F,39400,1,NO,Yes,Moving up
+282,38,F,54500,2,NO,No,Moving up
+283,42,F,49300,2,NO,No,Moving up
+284,40,F,54700,0,Yes,No,Moving up
+285,36,M,49800,1,NO,Yes,Moving up
+286,36,F,41800,2,NO,Yes,Moving up
+287,26,F,73200,2,NO,No,Moving up
+288,42,M,53500,1,NO,No,Moving up
+289,36,M,66400,1,NO,No,Moving up
+290,36,F,41200,4,NO,No,Moving up
+291,40,F,58900,2,Yes,Yes,Moving up
+292,36,F,52400,1,NO,Yes,Moving up
+293,36,M,40500,0,Yes,No,Moving up
+294,33,F,43900,0,Yes,No,Moving up
+295,41,F,64200,2,NO,No,Moving up
+296,38,M,47600,0,NO,Yes,Moving up
+297,33,M,60700,1,NO,No,Moving up
+298,34,M,53700,5,Yes,No,Moving up
